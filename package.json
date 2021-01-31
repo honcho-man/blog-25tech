@@ -17,7 +17,7 @@
     "gray-matter": "^4.0.2",
     "js-yaml": "^3.14.0",
     "netlify-cms-app": "^2.14.14",
-    "next": "9.5.1",
+    "next": "^10.0.6",
     "next-mdx-enhanced": "^3.1.0",
     "normalize.css": "^8.0.1",
     "react": "16.13.1",
