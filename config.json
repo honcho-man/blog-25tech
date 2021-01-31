@@ -1,19 +1,18 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://blog-25tech.netlify.app",
+  "site_title": "Blog 25Tech",
+  "site_description": "Blog site for 25Tech",
   "site_keywords": [
     {
       "keyword": "Next.js"
     },
-    {
-      "keyword": "Netlify"
-    },
+    "Blog",
     {
       "keyword": "React"
-    }
+    },
+    "25 Tech"
   ],
   "posts_per_page": 5,
   "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "github_account": "honcho-man"
 }
